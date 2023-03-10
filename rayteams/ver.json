@@ -1,0 +1,12 @@
+{
+    "ver" : "1.0.0",
+    "langs" : [
+        { "de" : "https://raw.githubusercontent.com/rayteams/ray-languages/main/rayteams/de.json" },
+        { "en" : "https://raw.githubusercontent.com/rayteams/ray-languages/main/rayteams/en.json" },
+        { "jp" : "https://raw.githubusercontent.com/rayteams/ray-languages/main/rayteams/jp.json" },
+        { "ko" : "https://raw.githubusercontent.com/rayteams/ray-languages/main/rayteams/ko.json" },
+        { "ru" : "https://raw.githubusercontent.com/rayteams/ray-languages/main/rayteams/ru.json" },
+        { "zh-chs" : "https://raw.githubusercontent.com/rayteams/ray-languages/main/rayteams/zh-chs.json" },
+        { "zh-cht" : "https://raw.githubusercontent.com/rayteams/ray-languages/main/rayteams/zh-cht.json" }
+    ]
+}
